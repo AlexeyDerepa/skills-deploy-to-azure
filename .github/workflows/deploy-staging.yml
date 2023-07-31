@@ -12,6 +12,7 @@ env:
   DOCKER_IMAGE_NAME: AlexeyDerepa-azure-ttt
   AZURE_WEBAPP_NAME: AlexeyDerepa-ttt-app
   ###############################################
+  
 
 jobs:
   build:
